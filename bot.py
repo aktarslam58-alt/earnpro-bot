@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # আপনার সংগৃহীত বটের API Token এখানে বসান
-API_TOKEN = '8057232629:AAEykadGfJ87RYrJ0UrdhUuHKS_spg9eUrs'
+API_TOKEN = '8057232629:AAHNsa2Lb9dwZKMEHvfK6N7jX5eNZEgnO3c'
 MY_CHANNEL_ID = '@EARNPROtakinkambd' # আপনার চ্যানেলের ইউজারনেম
 
 bot = telebot.TeleBot(API_TOKEN)
